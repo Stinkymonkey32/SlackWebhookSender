@@ -115,5 +115,6 @@ git merge upstream/main
 - Match the project’s code style.  
 - Test your changes before submitting a pull request.  
 - Merge upstream changes regularly to stay up to date.
+- You don't just have to contribute code! I also appreciate any Issue requests or even just a better setup tutorial
 
 
