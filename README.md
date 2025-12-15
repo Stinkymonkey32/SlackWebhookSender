@@ -60,7 +60,7 @@ https://hooks.slack.com/services/XXXX/YYYY/ZZZZ
 **macOS / Linux:** run the Python script:
 
 ```bash
-python3 Slack Webhook Sender.py
+python3 slackwebhooksender.py
 ```
 
 ---
