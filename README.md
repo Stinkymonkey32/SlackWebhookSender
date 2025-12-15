@@ -34,7 +34,7 @@ Visit: <https://api.slack.com/messaging/webhooks>
 Click **Create New App → From scratch**.
 
 ### 2. Name Your App
-Give it a name (e.g., `My Bot`) and select the Slack workspace.
+Give it a name (e.g., `'My Bot'`) and select the Slack workspace.
 
 ### 3. Enable Incoming Webhooks
 In the app settings sidebar go to **Incoming Webhooks** and toggle **Activate Incoming Webhooks**.  
