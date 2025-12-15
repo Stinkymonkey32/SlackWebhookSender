@@ -12,7 +12,6 @@ Also, Please don't bully me if my code isnt very good! I have been learning Pyth
 
 - [Features](#features)  
 - [Slack Webhook Setup](#slack-webhook-setup)  
-- [Contributing](#contributing)  
 
 ---
 
@@ -28,7 +27,7 @@ Also, Please don't bully me if my code isnt very good! I have been learning Pyth
 
 ## Slack Webhook Setup
 
-SlackbotController reads a single Incoming Webhook URL from `webhook.txt`. Follow these steps:
+Slack Webhook Sender reads a single Incoming Webhook URL from `webhook.txt`. Follow these steps:
 
 ### 1. Open the Slack App Directory
 Visit: <https://api.slack.com/messaging/webhooks>  
@@ -56,65 +55,15 @@ Paste only the webhook URL (no quotes, spaces, or blank lines):
 https://hooks.slack.com/services/XXXX/YYYY/ZZZZ
 ```
 
-### 6. Run SlackbotController
+### 6. Run Slack Webhook Sender
 **Windows:** run the `.exe`  
 **macOS / Linux:** run the Python script:
 
 ```bash
-python3 SlackbotController.py
+python3 Slack Webhook Sender.py
 ```
 
 ---
 
-## Contributing
-
-Follow these steps to contribute to **SlackbotController**:
-
-### Fork the Repository
-- Fork the repository on GitHub to create your own copy.
-
-### Clone Your Fork
-```bash
-git clone https://github.com/<your-username>/SlackbotController.git
-cd SlackbotController
-```
-
-### Create a New Branch
-```bash
-git checkout -b my-feature
-```
-
-### Make Changes and Commit
-```bash
-git add .
-git commit -m "Describe your changes"
-```
-
-### Push Your Branch
-```bash
-git push origin my-feature
-```
-
-### Open a Pull Request
-- Navigate to your fork on GitHub.  
-- Click **Compare & pull request**.  
-- Set the base to the original repository and the head to your branch.  
-- Submit the pull request.
-
-### Keep Your Fork Updated
-```bash
-git remote add upstream https://github.com/original-owner/SlackbotController.git
-git fetch upstream
-git checkout main
-git merge upstream/main
-```
-
-### Notes
-- Use separate branches for each feature or bug fix.  
-- Keep pull requests focused and small.  
-- Match the project’s code style.  
-- Test your changes before submitting a pull request.  
-- Merge upstream changes regularly to stay up to date.
-- You don't just have to contribute code! I also appreciate any Issue requests or even just a better setup tutorial
 
 
