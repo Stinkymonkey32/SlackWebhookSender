@@ -1,6 +1,6 @@
-# SlackbotController
+# Slack Webhook Sender
 
-SlackbotController is a lightweight tool that sends messages to a Slack workspace using an **Incoming Webhook**.  
+Slack Webhook Sender is a lightweight tool that sends messages to a Slack workspace using an **Incoming Webhook**.  
 A Windows `.exe` is provided for convenience; macOS and Linux users can run the Python version directly.
 
 > Ideal for automation, alerts, reminders, and harmless trolling (use responsibly).
