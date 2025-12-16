@@ -32,7 +32,7 @@ Slack Webhook Sender reads a single Incoming Webhook URL from `webhook.txt`. Fol
 ### 1. Open the Slack App Directory
 Visit: <https://api.slack.com/messaging/webhooks>  
 Click **Create New App → From scratch**.
-(You will need a Slack workplace, If you don't know how to do this go here: https://slack.com/help/articles/206845317-Create-a-Slack-workspace
+(You will need a Slack workplace, If you don't know how to do this go here: https://slack.com/help/articles/206845317-Create-a-Slack-workspace)
 
 ### 2. Name Your App
 Give it a name (e.g., `'My Bot'`) and select the Slack workspace.
